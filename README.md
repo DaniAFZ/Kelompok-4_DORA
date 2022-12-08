@@ -1,10 +1,20 @@
-# Kelompok 4 DORA
-Referensi: https://www.youtube.com/watch?v=SWaYRyi0TTs&t=402s
-Dataset: https://drive.google.com/drive/folders/1mYLHvMur05xDNhUub6D1p_6WtIlhVmaA?usp=sharing
-### PA MSIB KELAS INFINITY
-## Nama Kelompok:
-1. Nabilla Ananda Rifian
-2. Ike Nurma Widiana
-3. Fina Anggreyani
-4. Dani Azka Faz
-5. Nova Pratama Ramadhan
+# Eduralalin
+
+Orbit Project: Edukasi Rambu Lalu Lintas
+
+# Cara Menjalankan
+
+```
+# Buat Virtual Environment
+$ python -m venv .venv
+
+# Aktifkan Virtual Environment
+$ Untuk LINUX, source .venv/bin/activate
+$ (WINDOWS) .venv\Scripts\activate
+
+# Install libraries yang dibutuhkan
+$ (.venv) pip install -r requirements
+
+# Jalankan aplikasi
+$ (.venv) flask run
+```
