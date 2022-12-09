@@ -12,6 +12,6 @@ Labels: https://drive.google.com/file/d/1TiYNL_kt43sy0E-L2X-eaQRHNIw1yDMb/view?u
 
 Branches
 - Main: Model AI
-  Untuk model AI silahkan download file dan bukan di environment apapun. Saat pembuatan, kami menggunakan google colab. Download dataset dan labels yang tertera diatas, dan input ke folder drive / lokal. Run berurutan hingga model dapat di save dalam format .h5
+  Untuk model AI silahkan download file dan buka di environment apapun. Saat pembuatan, kami menggunakan Google Colab. Download dataset dan labels yang tertera diatas, dan input ke folder drive / lokal. Run berurutan hingga model dapat di save dalam format .h5. Bahasa pemrograman yang kami buat adalah Python.
 - Frontend
 - Backend
