@@ -15,3 +15,19 @@ Branches
   Silahkan download zip Model AI dan dataset di Branch Main: Model AI_fix. Run model AI di environment apapun. Pada saat pembuatan, kami menggunakan Google Colab. Bahasa pemrograman yang digunakan, yaitu Python.
 - Frontend
 - Backend
+# Cara Menjalankan
+Unduh Folder Program
+```
+# Buat Virtual Environment
+$ python -m venv .venv
+
+# Aktifkan Virtual Environment
+$ Untuk LINUX, source .venv/bin/activate
+$ (WINDOWS) .venv\Scripts\activate
+
+# Install libraries yang dibutuhkan
+$ (.venv) pip install -r requirements
+
+# Jalankan aplikasi
+$ (.venv) flask run
+```
