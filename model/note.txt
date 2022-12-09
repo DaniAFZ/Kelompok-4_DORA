@@ -1,0 +1,2 @@
+Silahkan masukkan model AI anda kedalam folder ini.
+Please insert/put/copy your AI Model into this folder.
