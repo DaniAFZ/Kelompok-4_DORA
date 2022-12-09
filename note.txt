@@ -1,2 +1,0 @@
-Silahkan masukkan model AI yang telah anda Train kedalam Folder INI
-Please copy your AI Model Files into this folder
