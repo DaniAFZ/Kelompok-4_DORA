@@ -9,3 +9,9 @@ Labels: https://drive.google.com/file/d/1TiYNL_kt43sy0E-L2X-eaQRHNIw1yDMb/view?u
 3. Fina Anggreyani
 4. Dani Azka Faz
 5. Nova Pratama Ramadhan
+
+Branches
+- Main: Model AI
+  Untuk model AI silahkan download file dan bukan di environment apapun. Saat pembuatan, kami menggunakan google colab. Download dataset dan labels yang tertera diatas, dan input ke folder drive / lokal. Run berurutan hingga model dapat di save dalam format .h5
+- Frontend
+- Backend
